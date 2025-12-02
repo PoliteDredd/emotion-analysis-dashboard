@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Sentiment Analysis Dashboard",
+  "description": "An application that analyzes the emotion of text using the Gemini API and allows users to compare the model's accuracy against their own judgment. It provides a dashboard to view analysis results and a history of comparisons.",
+  "requestFramePermissions": []
+}
